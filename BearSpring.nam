@@ -7,5 +7,6 @@ LPF               15  BearSpring.lpf
 OC                14  BearSpring.oc
 PCG               27  BearSpring.pcg
 RCH               19  BearSpring.rch
+STR              118  BearSpring.str
 DATA(BINARY)      53  BearSpring.cbc REPLACE
 DATA(BINARY)      51  BearSpring.hds REPLACE
